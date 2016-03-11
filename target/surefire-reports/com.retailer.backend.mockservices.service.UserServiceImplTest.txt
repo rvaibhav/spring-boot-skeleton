@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.retailer.backend.mockservices.service.UserServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 sec <<< FAILURE! - in com.retailer.backend.mockservices.service.UserServiceImplTest
+saveNewUser(com.retailer.backend.mockservices.service.UserServiceImplTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.retailer.backend.mockservices.service.UserServiceImpl.save(UserServiceImpl.java:23)
+	at com.retailer.backend.mockservices.service.UserServiceImplTest.saveNewUser(UserServiceImplTest.java:35)
+

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.retailer.backend.mockservices.controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.351 sec <<< FAILURE! - in com.retailer.backend.mockservices.controller.UserControllerTest
+shouldCreateUser(com.retailer.backend.mockservices.controller.UserControllerTest)  Time elapsed: 0.04 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.retailer.backend.mockservices.controller.UserController.createUser(UserController.java:25)
+	at com.retailer.backend.mockservices.controller.UserControllerTest.shouldCreateUser(UserControllerTest.java:37)
+
