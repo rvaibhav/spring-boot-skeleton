@@ -1,6 +1,0 @@
-com/retailer/backend/mockservices/entity/User.class
-com/retailer/backend/mockservices/service/UserServiceImpl.class
-com/retailer/backend/mockservices/repository/UserRepository.class
-com/retailer/backend/mockservices/controller/UserController.class
-com/retailer/backend/mockservices/Application.class
-com/retailer/backend/mockservices/service/UserService.class
